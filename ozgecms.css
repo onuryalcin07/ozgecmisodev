@@ -1,0 +1,26 @@
+.ustbaslik{
+    color: red;
+    font-weight: bold;
+    font-size: 50px;
+}
+.arabaslik{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+.kurs{
+    
+    font-size: 25px;
+    font-style: normal;
+    
+}
+.kursismi{
+    font-size: 25px;
+}
+
+.egitimbilgisi{
+    font-size: 25px;
+    font-weight: lighter;
+    color: blue;
+}
